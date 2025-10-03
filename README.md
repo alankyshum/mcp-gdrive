@@ -94,7 +94,7 @@ To integrate this server with the desktop app, add the following to your app's s
   "mcpServers": {
     "gdrive": {
       "command": "npx",
-      "args": ["-y", "@isaacphi/mcp-gdrive"],
+      "args": ["-y", "@alankyshum/mcp-gdrive"],
       "env": {
         "CLIENT_ID": "<CLIENT_ID>",
         "CLIENT_SECRET": "<CLIENT_SECRET>",
